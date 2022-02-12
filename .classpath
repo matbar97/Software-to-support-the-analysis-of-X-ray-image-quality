@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/dicomLibraryDcm4Che"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/imageio"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ImageJ_Plug"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jai-tiff-read"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/org.scijava"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/utilmousejfx"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/datasource_vtype"/>
+	<classpathentry kind="lib" path="C:/Users/Mateusz/Desktop/tiff io/common-image-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mateusz/Desktop/tiff io/common-io-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mateusz/Desktop/tiff io/common-lang-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mateusz/Desktop/tiff io/imageio-core-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mateusz/Desktop/tiff io/imageio-metadata-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mateusz/Desktop/tiff io/imageio-tiff-3.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/opencv"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JFreeLib"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
